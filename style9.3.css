@@ -1,0 +1,70 @@
+
+
+
+.bb{
+    width: 560px;
+    height: 250px;  
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 0 auto;
+    background-color:cornsilk;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    width: 200px;
+    height: 20px;
+    border-radius: 3px;
+    border: 1px solid black;
+}
+
+.tt{
+    position: relative;
+    left: 280px;
+    bottom: 252px;
+}
+
+.ttt{
+    position: relative;
+    left: 70px;
+    bottom: 220px;
+
+}
+
+.tttt{
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    position: relative;
+    right: 144px;
+    bottom: 155px;
+}
+
+.gg{
+    position: relative;
+    left: 250px;
+    top: 23px;
+}
+
+.ggg{
+    position: relative;
+    left: 385px;
+    bottom: 10px;
+}
+
+.pp{
+    height: 40px;
+    width: 300px;
+    position: relative;
+    left: 170px;
+    bottom: 100px;
+    color: white;
+    background-color: orange;
+    border: 1px solid orange;
+
+}
+
